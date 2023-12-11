@@ -23,12 +23,12 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
 ### 1. Playing Atari with Deep Reinforcement Learning
    - **Authors:** Volodymyr Mnih, Koray Kavukcuoglu, David Silver, et al.
    - **Summary:** This paper introduces Deep Q-Networks (DQN), a groundbreaking approach that combines deep neural networks with Q-learning. The model was trained to play multiple Atari 2600 games, achieving human-level performance.
-   - **Link:** [https://arxiv.org/abs/1312.5602](url)
+   - **Link:** [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 
 ### 2. Proximal Policy Optimization Algorithms
    - **Authors:** John Schulman, Filip Wolski, Prafulla Dhariwal, et al.
    - **Summary:** Proximal Policy Optimization (PPO) is introduced as a family of policy optimization algorithms. PPO is known for its stability and ease of implementation, making it widely adopted in both research and practical applications.
-   - **Link:** [https://arxiv.org/abs/1707.06347](url)
+   - **Link:** [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 
 ## Multi-Agent Reinforcement Learning 
 
@@ -59,14 +59,8 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
 ### 1. SLAM: Simultaneous Localization and Mapping - Part I
    - **Authors:** Hugh Durrant-Whyte, Tim Bailey
    - **Summary:** This seminal paper provides a comprehensive overview of Simultaneous Localization and Mapping (SLAM) techniques, a crucial aspect of robotic navigation. It covers fundamental concepts and algorithms essential for robots to build maps of their environment while simultaneously determining their own location.
-   - **Link:** [SLAM: Simultaneous Localization and Mapping - Part I]([https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf))
+   - **Link:** [SLAM: Simultaneous Localization and Mapping - Part I](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)
 
 ## How to Use
 
 Feel free to explore the papers by clicking on the provided links. Each section is dedicated to a specific field, and within each field, you'll find detailed information about individual papers.
-
-## Contributions
-
-If you have a paper you'd like to suggest or contribute, please open an issue or submit a pull request. Your input is valuable in keeping this collection up-to-date and comprehensive.
-
-Happy reading!
