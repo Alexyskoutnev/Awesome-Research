@@ -59,7 +59,7 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
 ### 1. SLAM: Simultaneous Localization and Mapping - Part I
    - **Authors:** Hugh Durrant-Whyte, Tim Bailey
    - **Summary:** This seminal paper provides a comprehensive overview of Simultaneous Localization and Mapping (SLAM) techniques, a crucial aspect of robotic navigation. It covers fundamental concepts and algorithms essential for robots to build maps of their environment while simultaneously determining their own location.
-   - **Link:** [SLAM: Simultaneous Localization and Mapping - Part I](https://ieeexplore.ieee.org/document/1678525)
+   - **Link:** [SLAM: Simultaneous Localization and Mapping - Part I]([https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf))
 
 ## How to Use
 
