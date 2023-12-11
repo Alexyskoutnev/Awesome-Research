@@ -1,4 +1,4 @@
-# Research Readme
+# Pretty Cool Research Papers
 
 Welcome to my curated collection of research papers in the fields of Deep Learning, Reinforcement Learning, Machine Learning, and Robotics. Dive into the latest advancements and gain insights from the forefront of these amazing domains.
 
