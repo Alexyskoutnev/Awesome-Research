@@ -61,6 +61,11 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Summary:** This seminal paper provides a comprehensive overview of Simultaneous Localization and Mapping (SLAM) techniques, a crucial aspect of robotic navigation. It covers fundamental concepts and algorithms essential for robots to build maps of their environment while simultaneously determining their own location.
    - **Link:** [SLAM: Simultaneous Localization and Mapping - Part I](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)
 
+### 2. Learning Torque Control for Quadrupedal Locomotion
+   - **Authors:** Shuxiao Chen, Bike Zhang, Mark W. Mueller, Akshara Rai, Koushil Sreenath
+   - **Summary:** The paper discusses the shift in paradigm from position-based to torque-based control in reinforcement learning (RL) for quadrupedal robots. It introduces a torque-based RL framework, where the RL policy directly predicts joint torques at a high frequency, eliminating the need for a proportional-derivative (PD) controller. The proposed torque control framework demonstrates superior performance in terms of reward and robustness to external disturbances, marking it as the first sim-to-real attempt for end-to-end learning torque control in quadrupedal locomotion.
+   - **Link:** [Learning Torque Control for Quadrupedal Locomotion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375154)
+
 ## How to Use
 
 Feel free to explore the papers by clicking on the provided links. Each section is dedicated to a specific field, and within each field, you'll find detailed information about individual papers.
