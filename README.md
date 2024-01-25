@@ -65,6 +65,10 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Authors:** Shuxiao Chen, Bike Zhang, Mark W. Mueller, Akshara Rai, Koushil Sreenath
    - **Summary:** The paper discusses the shift in paradigm from position-based to torque-based control in reinforcement learning (RL) for quadrupedal robots. It introduces a torque-based RL framework, where the RL policy directly predicts joint torques at a high frequency, eliminating the need for a proportional-derivative (PD) controller. The proposed torque control framework demonstrates superior performance in terms of reward and robustness to external disturbances, marking it as the first sim-to-real attempt for end-to-end learning torque control in quadrupedal locomotion.
    - **Link:** [Learning Torque Control for Quadrupedal Locomotion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375154)
+### 3. Real-World Humanoid Locomotion with Reinforcement Learning
+   - **Authors:** Ilija Radosavovic, Tete Xiao, Bike Zhang, Trevor Darrell, Jitendra Malik, Koushil Sreenath
+   - **Summary:** This research paper introduces a fully learning-based approach for real-world humanoid locomotion. The proposed controller, a causal transformer, utilizes the history of proprioceptive observations and actions to predict the next action. The model is trained through large-scale model-free reinforcement learning in simulated environments, and it demonstrates the ability to walk over diverse outdoor terrains, adapt in context, and exhibit robustness to external disturbances when deployed in the real world.
+   - **Link:**  [Real-World Humanoid Locomotion with Reinforcement Learning]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375154](https://arxiv.org/pdf/2303.03381.pdf))
 
 ## How to Use
 
