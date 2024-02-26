@@ -69,6 +69,10 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Authors:** Ilija Radosavovic, Tete Xiao, Bike Zhang, Trevor Darrell, Jitendra Malik, Koushil Sreenath
    - **Summary:** This research paper introduces a fully learning-based approach for real-world humanoid locomotion. The proposed controller, a causal transformer, utilizes the history of proprioceptive observations and actions to predict the next action. The model is trained through large-scale model-free reinforcement learning in simulated environments, and it demonstrates the ability to walk over diverse outdoor terrains, adapt in context, and exhibit robustness to external disturbances when deployed in the real world.
    - **Link:**  [Real-World Humanoid Locomotion with Reinforcement Learning]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375154](https://arxiv.org/pdf/2303.03381.pdf))
+### 4. Learning Bipedal Walking On Planned Footsteps For Humanoid Robots
+   - **Authors:** Rohan P. Singh, Mehdi Benallegue, Mitsuharu Morisawa, Rafael Cisneros, Fumio Kanehiro
+   - **Summary:** The paper introduces a deep reinforcement learning method that employs a step sequence controller to inform the policy about the future locomotion plan. By training the policy to follow procedurally generated step sequences, the method achieves omnidirectional walking, turning, standing, and stair climbing without the need for reference motions or pre-trained weights. The proposed approach is demonstrated on two new robot platforms, HRP5P and JVRC-1, using the MuJoCo simulation environment.
+   - **Link:**  [Learning Bipedal Walking On Planned Footsteps For Humanoid Robots]([[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375154](https://arxiv.org/pdf/2303.03381.pdf](https://arxiv.org/pdf/2207.12644.pdf)))
 
 ## How to Use
 
