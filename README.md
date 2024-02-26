@@ -72,7 +72,7 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
 ### 4. Learning Bipedal Walking On Planned Footsteps For Humanoid Robots
    - **Authors:** Rohan P. Singh, Mehdi Benallegue, Mitsuharu Morisawa, Rafael Cisneros, Fumio Kanehiro
    - **Summary:** The paper introduces a deep reinforcement learning method that employs a step sequence controller to inform the policy about the future locomotion plan. By training the policy to follow procedurally generated step sequences, the method achieves omnidirectional walking, turning, standing, and stair climbing without the need for reference motions or pre-trained weights. The proposed approach is demonstrated on two new robot platforms, HRP5P and JVRC-1, using the MuJoCo simulation environment.
-   - **Link:**  [Learning Bipedal Walking On Planned Footsteps For Humanoid Robots]([[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375154](https://arxiv.org/pdf/2303.03381.pdf](https://arxiv.org/pdf/2207.12644.pdf)))
+   - **Link:**  [Learning Bipedal Walking On Planned Footsteps For Humanoid Robots](https://arxiv.org/pdf/2207.12644.pdf)
 
 ## How to Use
 
