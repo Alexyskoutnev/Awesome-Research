@@ -5,12 +5,12 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
 ## Table of Contents
 
 1. [Deep Learning](#deep-learning)
-1. [Reinforcement Learning](#reinforcement-learning)
-2. [Multi-Agent Reinforcement Learning](#marl)
-3. [Machine Learning](#machine-learning)
-4. [Robotics](#robotics)
-5. [Game Thoery] (#game-thoery)
-6. [Quantum Computing] (#quantum-computing)
+2. [Reinforcement Learning](#reinforcement-learning)
+3. [Multi-Agent Reinforcement Learning](#marl)
+4. [Machine Learning](#machine-learning)
+5. [Robotics](#robotics)
+6. [Game Theory](#game-theory)
+7. [Quantum Computing](#quantum-computing)
 
 ## Deep Learning
 
