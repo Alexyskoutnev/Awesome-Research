@@ -9,7 +9,8 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
 2. [Multi-Agent Reinforcement Learning](#marl)
 3. [Machine Learning](#machine-learning)
 4. [Robotics](#robotics)
-
+5. [Game Thoery] (#game-thoery)
+6. [Quantum Computing] (#quantum-computing)
 
 ## Deep Learning
 
@@ -73,6 +74,13 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Authors:** Rohan P. Singh, Mehdi Benallegue, Mitsuharu Morisawa, Rafael Cisneros, Fumio Kanehiro
    - **Summary:** The paper introduces a deep reinforcement learning method that employs a step sequence controller to inform the policy about the future locomotion plan. By training the policy to follow procedurally generated step sequences, the method achieves omnidirectional walking, turning, standing, and stair climbing without the need for reference motions or pre-trained weights. The proposed approach is demonstrated on two new robot platforms, HRP5P and JVRC-1, using the MuJoCo simulation environment.
    - **Link:**  [Learning Bipedal Walking On Planned Footsteps For Humanoid Robots](https://arxiv.org/pdf/2207.12644.pdf)
+
+## Quantum Computing
+
+### 1. Variational Quantum Circuits for Deep Reinforcement Learning
+   - **Authors:** Samuel Yen-Chi Chen, Chao-Han Huck Yang, Jun Qi, Pin-Yu Chen, Xiaoli Ma, Hsi-Sheng Goan
+   - **Summary:** This pioneering work explores the integration of variational quantum circuits into deep reinforcement learning algorithms. By reshaping classical deep reinforcement learning techniques such as experience replay and target networks into the framework of variational quantum circuits, the authors aim to address the challenges of leveraging quantum computing in machine learning tasks. The proposed approach demonstrates the first proof-of-principle demonstration of variational quantum circuits for approximating the deep Q-value function, offering promising implications for decision-making and policy selection in reinforcement learning tasks.
+   - **Link:** [Variational Quantum Circuits for Deep Reinforcement Learning](https://arxiv.org/abs/1907.00397)
 
 ## How to Use
 
