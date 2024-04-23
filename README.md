@@ -74,6 +74,10 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Authors:** Rohan P. Singh, Mehdi Benallegue, Mitsuharu Morisawa, Rafael Cisneros, Fumio Kanehiro
    - **Summary:** The paper introduces a deep reinforcement learning method that employs a step sequence controller to inform the policy about the future locomotion plan. By training the policy to follow procedurally generated step sequences, the method achieves omnidirectional walking, turning, standing, and stair climbing without the need for reference motions or pre-trained weights. The proposed approach is demonstrated on two new robot platforms, HRP5P and JVRC-1, using the MuJoCo simulation environment.
    - **Link:**  [Learning Bipedal Walking On Planned Footsteps For Humanoid Robots](https://arxiv.org/pdf/2207.12644.pdf)
+### 5. Expressive Whole-Body Control for Humanoid Robots
+   - **Authors:** Xuxin Cheng , Yandong Ji , Junming Chen, Ruihan Yang, Ge Yang, Xiaolong Wang
+   - **Summary:** This paper introduces ExBody, a method enabling humanoid robots to perform diverse motions realistically. Leveraging human motion capture data, ExBody trains a control policy in reinforcement learning. By encouraging the upper body to imitate reference motions while relaxing constraints on leg motion, it achieves robust performance. Through simulation and real-world transfer, ExBody controls robots to walk, handshake, and dance with humans effectively, validated through extensive studies.
+   - **Link:** [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/pdf/2402.16796.pdf)
 
 ## Quantum Computing
 
