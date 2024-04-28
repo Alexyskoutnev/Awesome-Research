@@ -19,6 +19,11 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Summary:** This seminal paper introduces the Transformer architecture, which utilizes self-attention mechanisms to capture long-range dependencies in sequences. The Transformer has become a cornerstone in natural language processing and other sequential data tasks, outperforming previous recurrent and convolutional architectures.
    - **Link:** [Attention All You Need](https://arxiv.org/abs/1706.03762)
 
+### 2. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+   - **Authors:** Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
+   - **Summary:** This paper introduces the Vision Transformer (ViT) model, which applies the Transformer architecture directly to sequences of image patches for image classification tasks. ViT achieves state-of-the-art results compared to state-of-the-art convolutional networks while requiring substantially fewer computational resources to train.
+   - **Link:** [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+
 ## Reinforcement Learning
 
 ### 1. Playing Atari with Deep Reinforcement Learning
@@ -54,11 +59,6 @@ Welcome to my curated collection of research papers in the fields of Deep Learni
    - **Authors:** Sergey Ioffe, Christian Szegedy
    - **Summary:** This influential paper introduces Batch Normalization, a technique that significantly accelerates the training of deep neural networks by normalizing intermediate feature activations. It helps mitigate the internal covariate shift problem and has become a standard component in the design of deep learning architectures.
    - **Link:** [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
-
-### 4. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-   - **Authors:** Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
-   - **Summary:** This paper introduces the Vision Transformer (ViT) model, which applies the Transformer architecture directly to sequences of image patches for image classification tasks. ViT achieves state-of-the-art results compared to state-of-the-art convolutional networks while requiring substantially fewer computational resources to train.
-   - **Link:** [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 ## Robotics
 
